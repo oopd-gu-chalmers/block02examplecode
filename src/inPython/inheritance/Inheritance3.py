@@ -1,8 +1,11 @@
 # package python.inheritance
 
-# Eliminating redundant code using an abstract base class
-# and letting base class implement interface (i.e. all sub classes
-# must implement)
+# Eliminating redundant code using an *abstract* common superclass,
+# letting superclass define the common interface that all subclasses
+# must then implement.
+# Note: I use interface in the general sense here, as in, the methods
+# and attributes associated with the type; and not in the sense of the
+# Java interface mechanism/keyword.
 from abc import ABC, abstractmethod
 
 

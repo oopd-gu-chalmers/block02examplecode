@@ -2,9 +2,12 @@ package inJava.inheritance;
 
 import static java.lang.System.out;
 
-// Eliminating redundant code using an *abstract* common superclass
-// and letting superclass define interface (which all subclasses
-// must then implement)
+// Eliminating redundant code using an *abstract* common superclass,
+// letting superclass define the common interface that all subclasses
+// must then implement.
+// Note: I use interface in the general sense here, as in, the methods
+// and attributes associated with the type; and not in the sense of the
+// Java interface mechanism/keyword.
 class Inheritance3 {
     static void inheritanceProgram() {
         // Pet _pet = new Pet("any", 0); // No longer allowed, Pet is abstract
