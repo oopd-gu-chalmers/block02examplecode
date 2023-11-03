@@ -7,8 +7,6 @@ import static java.lang.System.out;
 //
 // To be continued: See Composition2
 
-// Everything in Java must be inside a class - we can't just define functions
-// at the "top level" as we do in Python.
 class WithComposition1 {
     static void compositionProgram() {
         Pet pet = new Pet("any",0);  // Passes type checker, but senseless

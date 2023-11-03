@@ -6,6 +6,9 @@ import static java.lang.System.out;
 // Plenty of duplicated code! How can we fix?
 //
 // To be continued: See Inheritance2
+
+// Everything in Java must be inside a class - we can't just define functions
+// at the "top level" as we do in Python.
 class Inheritance1 {
     static void inheritanceProgram() {
         Dog dog = new Dog("Lassie",4);
