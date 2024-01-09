@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="543ae267-a2e1-4d8f-b44a-02cc0439f100" name="Changes" comment="Add all files to repo">
-      <change beforePath="$PROJECT_DIR$/src/inJava/inheritance/Inheritance3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inJava/inheritance/Inheritance3.java" afterDir="false" />
+    <list default="true" id="543ae267-a2e1-4d8f-b44a-02cc0439f100" name="Changes" comment="Move comment on everything being a class in Java to the first of the example files.">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block12examplecode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/block02examplecode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/nikla/IdeaProjects/Courses/OOPD/block12examplecode/src/inPython/sphereArea",
+    "last_opened_file_path": "C:/Users/nikla/IdeaProjects/Courses/OOPD/block02examplecode",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -57,7 +59,7 @@
   <component name="RunManager" selected="Application.WithComposition2">
     <configuration name="WithComposition2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inJava.inheritance.WithComposition2" />
-      <module name="block12examplecode" />
+      <module name="block02examplecode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inJava.inheritance.*" />
@@ -69,7 +71,7 @@
       </method>
     </configuration>
     <configuration name="Inheritance3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="block12examplecode" />
+      <module name="block02examplecode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -90,7 +92,7 @@
       <method v="2" />
     </configuration>
     <configuration name="InheritanceTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="block12examplecode" />
+      <module name="block02examplecode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,7 +113,7 @@
       <method v="2" />
     </configuration>
     <configuration name="WithComposition1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="block12examplecode" />
+      <module name="block02examplecode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -132,7 +134,7 @@
       <method v="2" />
     </configuration>
     <configuration name="WithComposition2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="block12examplecode" />
+      <module name="block02examplecode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
